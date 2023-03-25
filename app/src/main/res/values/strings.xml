@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Aston-2</string>
+    <string name="counter_button">count up</string>
+    <string name="edit_text_hint">Enter your text</string>
 </resources>
